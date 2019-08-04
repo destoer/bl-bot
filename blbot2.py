@@ -1,6 +1,9 @@
 import  requests, time, threading, sys, json, random, re
 from threading import Thread
 
+
+# no longer works on this version of the game :)
+
 # setup
 #go to https://www.python.org/downloads/
 #and install the lastest version (python 3.7.1) just follow it as a normal installer
